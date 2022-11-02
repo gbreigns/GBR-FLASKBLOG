@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Now your are here, Welcome! <span class="wave">👋🏾</span></h2>
+<p>
+  GBRBlog is a plattform where you can get updated news, events and thoughts of various crypto traders and investors. We also encourage you to sharing your thoughts also.
+</p>
+<p>
+  Authentication is not required to read articles on this blog, but you'll have to <a href="{{url_for('login')}}">log in</a> to post, edit or delete your articles.
+</p>
+<br />
+<br />
+<p>
+  GBRBlog is a project hosted by
+  <a href="https://www.linkedin.com/in/dr-austin-wopara">Pascal Reigns (GbReigns)</a>, a
+  Backend Engineering student at
+  <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a>
+  who's learning to create magic with the Python Flask framework. Learn more
+  about GbReigns on <a href="https://github.com/GbReigns">GitHub</a> and
+  <a href="https://twitter.com/GbReigns">Twitter</a>
+</p>
+<br />
+{% endblock content %}

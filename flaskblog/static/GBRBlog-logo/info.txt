@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: publicasans-regular
+font link: http://www.myfonts.com/fonts/facetype/publica-sans/regular/#index
+font author: FaceType
+font author site: http://www.facetype.org/
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"#E1F4FC","icon-gradient-0":"#0D7CE9","icon-gradient-1":"#15CFF1","font":"#08374E","slogan":"#1c4b62"}
+      
